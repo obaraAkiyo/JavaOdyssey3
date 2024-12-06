@@ -3,3 +3,7 @@
 プッシュできました．以下のサイトを参照しました．
 
 [GitHubへのPUSH](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## 目標
+
+12月までにアプリの完成を目指す．
